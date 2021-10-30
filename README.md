@@ -1,4 +1,4 @@
-- 👋 Bonjour, je m'appelle Stéphae Deudon
+- 👋 Bonjour, je m'appelle Stéphane Deudon
 - 👀 Fondateur du projet PrimTux, distribution éducative dédiée aux écoles primaires (https://primtux.fr)
 - 🌱 Nous développons actuellement la version 7, basée sur Debian 9 et Ubuntu 20.04
 - 💞️ Nous souhaiterions apparaître dans votre liste d'initiatives libres pour l'éducation.
